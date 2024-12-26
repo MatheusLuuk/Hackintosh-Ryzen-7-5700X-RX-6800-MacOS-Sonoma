@@ -80,10 +80,10 @@ Para fins de backup de arquivos do meu primeiro hackintosh 100%!!!
 
 # Resultado do Geekbench
 GPU \
-![CleanShot 2024-12-26 at 20 38 44](https://github.com/user-attachments/assets/1e072683-3eb9-4dd8-9a4a-31a462bcb7d0)
+![image](https://github.com/user-attachments/assets/2e1c91a1-5bef-46fd-adb0-480b94e707b4)
 
 CPU \
-![CleanShot 2024-12-26 at 20 33 04](https://github.com/user-attachments/assets/2258c711-f43e-400a-8869-3f14cf2b3670)
+![image](https://github.com/user-attachments/assets/53aa92bc-d3bc-4abb-9f6d-f5cd2caa04aa)
 
 # Créditos
 * Agradecimento para o [Gabriel Luchina](https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR?tab=readme-ov-file#specs:~:text=Special%20thnx%20to-,Gabriel%20Luchina,-His%20knowledge%20and)
