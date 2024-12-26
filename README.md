@@ -3,8 +3,9 @@
 Para fins de backup de arquivos do meu primeiro hackintosh 100%!!!
 
 # Prints
-![CleanShot 2024-12-26 at 19 20 26](https://github.com/user-attachments/assets/dd2b1223-6d21-4fb3-82e0-4571224d049b)
-![CleanShot 2024-12-26 at 19 32 20](https://github.com/user-attachments/assets/9d96d7a8-f684-4ca8-ab46-2a3ea44e4dbd)
+![image](https://github.com/user-attachments/assets/bca25755-0efb-4585-b997-1e9555bfa4ff)
+![image](https://github.com/user-attachments/assets/164934fc-f9d5-4df6-a535-5adada3c104f)
+
 
 **MacOS version:** Sonoma 14.7.2 \
 **OpenCore version:** 1.0.3
